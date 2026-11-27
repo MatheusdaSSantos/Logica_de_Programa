@@ -1,3 +1,5 @@
+##Criar uma exercicio para que vc Entre com um nº e exiba seu sucessor e antecessor
+
 numero = int(input("Digite um número: "))
 
 antecessor = numero - 1
